@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"hu.nem3d.zincity"},{"l":"hu.nem3d.zincity.Cell"},{"l":"hu.nem3d.zincity.Logic"},{"l":"hu.nem3d.zincity.Misc"},{"l":"hu.nem3d.zincity.Screen"}];updateSearchResults();
